@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1001,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "akshat",
+    "lastName": "yadav",
+    "email": "akshat9090@gmail.com",
+    "contactNumber": "9090907980",
+    "age": "45",
+    "dob": "13/09/2006",
+    "salary": "1",
+    "address": "Address1"
+  },
+  {
+    "id": 1002,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "rohan",
+    "lastName": "sharma",
+    "email": "rohan123@gmail.com",
+    "contactNumber": "9090901234",
+    "age": "29",
+    "dob": "25/07/1995",
+    "salary": "50000",
+    "address": "Address2"
+  },
+  {
+    "id": 1003,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "priya",
+    "lastName": "singh",
+    "email": "priya.singh@example.com",
+    "contactNumber": "9898989898",
+    "age": "32",
+    "dob": "11/11/1992",
+    "salary": "70000",
+    "address": "Address3"
+  },
+  {
+    "id": 1004,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "amit",
+    "lastName": "verma",
+    "email": "amitverma@gmail.com",
+    "contactNumber": "8787878787",
+    "age": "41",
+    "dob": "05/03/1983",
+    "salary": "90000",
+    "address": "Address4"
+  },
+  {
+    "id": 1005,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "sneha",
+    "lastName": "gupta",
+    "email": "sneha.gupta@example.com",
+    "contactNumber": "7676767676",
+    "age": "27",
+    "dob": "19/08/1997",
+    "salary": "65000",
+    "address": "Address5"
+  },
+  {
+    "id": 1006,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "vishal",
+    "lastName": "kumar",
+    "email": "vishal.kumar@example.com",
+    "contactNumber": "6565656565",
+    "age": "36",
+    "dob": "22/06/1988",
+    "salary": "85000",
+    "address": "Address6"
+  },
+  {
+    "id": 1007,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "neha",
+    "lastName": "rathore",
+    "email": "neha.rathore@example.com",
+    "contactNumber": "5454545454",
+    "age": "31",
+    "dob": "09/04/1993",
+    "salary": "75000",
+    "address": "Address7"
+  },
+  {
+    "id": 1008,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "ankit",
+    "lastName": "shukla",
+    "email": "ankit.shukla@example.com",
+    "contactNumber": "4343434343",
+    "age": "28",
+    "dob": "15/12/1996",
+    "salary": "72000",
+    "address": "Address8"
+  },
+  {
+    "id": 1009,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "radhika",
+    "lastName": "mehta",
+    "email": "radhika.mehta@example.com",
+    "contactNumber": "3232323232",
+    "age": "34",
+    "dob": "30/10/1990",
+    "salary": "82000",
+    "address": "Address9"
+  },
+  {
+    "id": 1010,
+    "imageUrl": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2NC1wb3ItbC5qcGc.jpg",
+    "firstName": "saurabh",
+    "lastName": "mishra",
+    "email": "saurabh.mishra@example.com",
+    "contactNumber": "2121212121",
+    "age": "39",
+    "dob": "14/02/1985",
+    "salary": "88000",
+    "address": "Address10"
+  }
+]

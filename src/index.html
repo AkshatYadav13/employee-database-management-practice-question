@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Sandbox</title>
+    <meta charset="UTF-8" />
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div id="app">
+      <header>
+        <h1>Employee Database Management</h1>
+        <button id="add-emp-btn">Add Employee</button>
+      </header>
+
+      <div id="main">
+        <div id="emp-list">
+          <div class="title">Employee list</div>
+
+          <div id="emp-list-box"></div>
+        </div>
+
+        <div id="emp-info">
+          <div class="title">Employee information</div>
+
+          <div id="emp-info-box"></div>
+        </div>
+      </div>
+
+      <div id="add-emp-modal">
+        <form id="add-emp-form">
+          <h2>Add Employee Details</h2>
+          <div>
+            <div class="label-wrap">
+              <label for="fname">First Name</label>
+              <input type="text" name="fname" required />
+            </div>
+            <div class="label-wrap">
+              <label for="lname">Last Name</label>
+              <input type="text" name="lname" required />
+            </div>
+            <div class="label-wrap">
+              <label for="email">Email</label>
+              <input type="email" name="email" required />
+            </div>
+            <div class="label-wrap">
+              <label for="address">Address</label>
+              <input type="text" name="address" required />
+            </div>
+            <div class="label-wrap">
+              <label for="contact-no">Contact Number</label>
+              <input type="tel" name="contact-no" required />
+            </div>
+            <div class="label-wrap">
+              <label for="salary">Salary</label>
+              <input type="number" name="salary" required />
+            </div>
+            <div class="label-wrap">
+              <label for="dob">Dob</label>
+              <input type="date" name="dob" id="add-emp-dob" required/ >
+            </div>
+            <div class="label-wrap">
+              <label for="image-url">Profile Pic</label>
+              <input
+                type="text"
+                name="image-url"
+                placeholder="Image Url (Optional)"
+              />
+            </div>
+          </div>
+          <button id="add-emp-form-btn">Submit</button>
+        </form>
+      </div>
+    </div>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
